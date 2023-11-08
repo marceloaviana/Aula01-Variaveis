@@ -22,7 +22,9 @@ print(type(peso))
 aluno = input("Digite o nome do aluno: ")
 print("O aluno é o", aluno)
 
+
 # Execicio 1
+
 
 Nome = input("Qual o seu nome: ")
 print("Olá,", Nome, "! Seja bem-vindo ao mundo da programação em Python!")
